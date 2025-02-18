@@ -42,8 +42,3 @@ variable "application_name" {
   type = string
   default = "myapp"
 }
-
-variable "EC2Key" {
-  type = string
-}
-
